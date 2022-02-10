@@ -12,7 +12,7 @@ My name is Asjad Iftikhar and I'm a freelance software developer from Pakistan. 
 - 💬 <b>Ask me about:</b> Python, Django
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:iftikharasjad@gmail.com" target="_blank">iftikharasjad@gmail.com</a>
 
-### My Stacks
+### My Tech Stack
 
 ```json
 {
@@ -28,7 +28,7 @@ My name is Asjad Iftikhar and I'm a freelance software developer from Pakistan. 
 }
 ```
 
-## 🔧 Technologies & Tools
+## 🔧 My Tech bagpack
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -42,7 +42,7 @@ My name is Asjad Iftikhar and I'm a freelance software developer from Pakistan. 
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Stats
 
 <a href="https://github.com/AsjadIftikhar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsjadIftikhar&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
