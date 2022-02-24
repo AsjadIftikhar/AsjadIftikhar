@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/AsjadIftikhar/AsjadIftikhar/master/background.png "Header")](https://github.com/AsjadIftikhar)
 
 # Hi there! 👋
-My name is Asjad Iftikhar and I'm a freelance software developer from Pakistan. Passionate about bridging the gap between complex of Machine learning models and the average website owners with Django Framework.  
+My name is Asjad Iftikhar and I'm a freelance software developer from Pakistan. Passionate about bridging the gap between complex Machine learning models and the average website owners with Django Framework.  
 
 ### Things you should know
 
