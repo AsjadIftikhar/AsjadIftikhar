@@ -1,15 +1,23 @@
 [![Header](https://raw.githubusercontent.com/AsjadIftikhar/AsjadIftikhar/master/background.png "Header")](https://github.com/AsjadIftikhar)
 
 # Hi there! 👋
-My name is Asjad Iftikhar and I'm a freelance software developer from Pakistan. Passionate about making artificial intelligence more accessible to achieve business goals and solving real world problems. Currently working on Python, Django Rest and React technologies. Always looking for a productive and intellectual conversation. Learn to become wise!
+Hey there! 👋 I'm Asjad Iftikhar, a seasoned Software Engineer with a proven track record spanning over 3 years, specializing in Django Rest Framework.
+
+🚀 My passion lies in crafting cutting-edge APIs that drive tangible results for clients. I thrive on tackling complex challenges and transforming them into elegant solutions that propel businesses forward.
+
+💼 Throughout my journey, I've spearheaded numerous projects leveraging Django Rest Framework. From intricate data modeling to seamless API design and integration with diverse third-party services, I've led the charge in delivering robust and scalable solutions. My hands-on experience has equipped me with a profound understanding of the nuances involved in building high-performance APIs using Django Rest Framework.
+
+💬 Collaboration is at the heart of my approach to engineering. I deeply engage with clients, working collaboratively to grasp their unique needs and craft tailored solutions that exceed expectations. With an unwavering focus on quality and a commitment to delivering on promises, I've earned a reputation as a reliable partner and an authority in my domain.
+
+👉 If you're seeking to embark on an API-driven journey with Django Rest Framework, let's connect! Together, we can explore how I can add value to your project and drive success.
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> React.js, Django, Django REST
-- 🌱 <b>Getting better at:</b> React.js, Python
-- 🤔 <b>Exploring:</b> Tailwind CSS, Digital Ocean
-- ⚗️ <b>Experimenting on:</b> Data Science & Machine Learning Application
-- 💬 <b>Ask me about:</b> Python, Django
+- 🔭 <b>Currently working on:</b> Django, Django REST Framework
+- 🌱 <b>Getting better at:</b> Engineering and Management
+- 🤔 <b>Exploring:</b> React Native, AWS Services
+- ⚗️ <b>Experimenting on:</b> React Native, AWS Services
+- 💬 <b>Ask me about:</b> Python, Django, Elastic Search
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:iftikharasjad@gmail.com" target="_blank">iftikharasjad@gmail.com</a>
 
 ### My Tech Stack
@@ -19,12 +27,11 @@ My name is Asjad Iftikhar and I'm a freelance software developer from Pakistan. 
   "languages": ["Python", "Javascript"],
   "frameworks/libraries": {
     "backend": ["Django", "Django Rest Framework"],
-    "frontend": ["React.js", "Boostrap", "Tailwind"],
-    "others": ["HTML5", "CSS3"]
+    "frontend": ["Next.js", "Boostrap", "Tailwind"],
+    "others": ["Celery", "Redis", "Elastic Search"]
   },
   "database": ["Mysql", "PostgreSQL"],
-  "misc": ["Celery", "GPT3"],
-  "tools": ["Visual Studio Code", "IntelliJ"]
+  "misc": ["Celery", "GPT3"]
 }
 ```
 
