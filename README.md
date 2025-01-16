@@ -1,5 +1,3 @@
-[![Header](https://drive.google.com/file/d/1_89AIol_yn0Jl4XFC4O56u-EyNqlJaAD/view?usp=sharing "Header")](https://github.com/AsjadIftikhar)
-
 # Hi there! 👋
 Hey there! 👋 I'm Asjad Iftikhar, a seasoned Software Engineer with a proven track record spanning over 5 years, specializing in Python Django and Rest Framework.
 
