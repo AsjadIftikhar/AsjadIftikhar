@@ -46,24 +46,3 @@ Hey there! 👋 I'm Asjad Iftikhar, a seasoned Software Engineer with a proven t
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-## &#x1f4c8; Stats
-
-<a href="https://github.com/AsjadIftikhar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsjadIftikhar&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/AsjadIftikhar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AsjadIftikhar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Asjad's GitHub Stats" />
-</a>
-
-<a href="https://github.com/AsjadIftikhar/QR_Decoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsjadIftikhar&repo=QR_Decoder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AsjadIftikhar/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsjadIftikhar&repo=blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AsjadIftikhar/Panda-Mall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsjadIftikhar&repo=Panda-Mall&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
